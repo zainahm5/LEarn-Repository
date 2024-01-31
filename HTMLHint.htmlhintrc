@@ -1,7 +1,0 @@
-npm install --save-dev htmlhint
-
-{
-  "attr-value-not-empty": false
-}
-
-npx htmlhint "**/*.html"
